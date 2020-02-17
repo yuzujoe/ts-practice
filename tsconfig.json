@@ -1,4 +1,6 @@
 {
+  //  extendsで継承元を指定できる
+  // "extends": "./tsconfig.json",
   "compilerOptions": {
     /* Basic Options */
     // "incremental": true,                   /* Enable incremental compilation */
